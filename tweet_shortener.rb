@@ -18,5 +18,9 @@ tweet2 = "OMG you guys, you won't believe how sweet my kitten is. My kitten is l
 tweet3 = "I'm running out of example tweets for you guys, which is weird, because I'm a writer and this is just writing and I tweet all day. For real, you guys. For real."
 tweet4 = "GUISEEEEE this is so fun! I'm tweeting for you guys and this tweet is SOOOO long it's gonna be way more than you would think twitter can handle, so shorten it up you know what I mean? I just can never tell how long to keep typing!"
 tweet5 = "New game. Middle aged tweet followed by #youngPeopleHashTag Example: Gotta get my colonoscopy and mammogram soon. Prevention is key! #swag"
-tweets = 
+tweets = [tweet1, tweet2, tweet3, tweet4, tweet5]
+
+def word_substituter(tweets)
+  tweets.each do |tweet|
+    
 

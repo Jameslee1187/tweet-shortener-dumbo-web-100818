@@ -12,5 +12,5 @@ def dictionary
     "and" => "&"
   }
 end
-
+tweet1 = 
 # Write your code here.

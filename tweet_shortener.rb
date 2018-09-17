@@ -21,6 +21,6 @@ tweet5 = "New game. Middle aged tweet followed by #youngPeopleHashTag Example: G
 tweets = [tweet1, tweet2, tweet3, tweet4, tweet5]
 
 def word_substituter(string)
-  string.each do |
+  string.split.collect do |word|
     
 

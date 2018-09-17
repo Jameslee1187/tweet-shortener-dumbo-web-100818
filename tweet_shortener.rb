@@ -20,7 +20,7 @@ tweet4 = "GUISEEEEE this is so fun! I'm tweeting for you guys and this tweet is 
 tweet5 = "New game. Middle aged tweet followed by #youngPeopleHashTag Example: Gotta get my colonoscopy and mammogram soon. Prevention is key! #swag"
 tweets = [tweet1, tweet2, tweet3, tweet4, tweet5]
 
-def word_substituter(tweets)
-  tweets.each do |tweet|
+def word_substituter(string)
+  string.each do |
     
 

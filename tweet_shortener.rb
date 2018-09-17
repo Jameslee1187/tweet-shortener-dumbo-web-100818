@@ -23,6 +23,6 @@ tweets = [tweet1, tweet2, tweet3, tweet4, tweet5]
 def word_substituter(string)
   string.split.collect do |word|
     if dictionary.keys.include?(word.downcase)
-      word = dictionary[]
+      word = dictionary[word.downcase]
     
 

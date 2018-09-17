@@ -52,5 +52,7 @@ def shortened_tweet_truncator(tweet1)
     tweet1
   end
 end
+
+shortened_tweet_truncator(tweet3)
     
 

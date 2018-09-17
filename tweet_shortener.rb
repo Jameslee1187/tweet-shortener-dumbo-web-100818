@@ -11,4 +11,6 @@ def dictionary
     "at" => "@"
     "and" => "&"
   }
+end
+
 # Write your code here.

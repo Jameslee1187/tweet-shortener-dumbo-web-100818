@@ -44,6 +44,7 @@ tweets.each do |tweet|
   else
     tweet
   end
+  end
 end
     
 

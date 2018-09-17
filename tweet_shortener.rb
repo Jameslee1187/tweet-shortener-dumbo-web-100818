@@ -1,3 +1,5 @@
 def dictionary
-  dictionary {
+  dictionary = {
+    hello => hi
+  }
 # Write your code here.
